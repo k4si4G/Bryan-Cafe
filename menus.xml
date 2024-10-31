@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE menu SYSTEM "menu.dtd">
+
+<menu>
+    <week>
+        <special>
+            <title>This Week’s Special Meal Offers</title>
+            <categories>
+                <category name="Meals">
+                    <item>
+                        <name>Beetroot and feta salad</name>
+                        <description>Suitable for vegetarians, made with fresh beetroot</description>
+                        <price>$15</price>
+                        <image>m1.png</image>
+                    </item>
+                    <item>
+                        <name>Sourdough Rye Sandwich</name>
+                        <description>Cheese and salad sandwich made with organic, sourdough rye bread</description>
+                        <price>$18</price>
+                        <image>m2.png</image>
+                    </item>
+                    <item>
+                        <name>Spinach Pie and Salad</name>
+                        <description>A mix of fresh greens, vegetables, and dressing for a light, healthy side</description>
+                        <price>$20</price>
+                        <image>m3.png</image>
+                    </item>
+                    <item>
+                        <name>Feta pancakes with salad</name>
+                        <description>Fluffy pancakes made with crumbled feta cheese, herbs, and spices.</description>
+                        <price>$19.50</price>
+                        <image>m4.png</image>
+                    </item>
+                </category>
+                <category name="Beverages">
+                    <item>
+                        <name>Small Coffee</name>
+                        <description>For coffee, please inform the staff of the coffee type</description>
+                        <price>$3.50</price>
+                        <image>m5.png</image>
+                    </item>
+                    <item>
+                        <name>Regular Coffee</name>
+                        <description>For coffee, please inform the staff of the coffee type</description>
+                        <price>$4</price>
+                        <image>m6.png</image>
+                    </item>
+                    <item>
+                        <name>Large Coffee</name>
+                        <description>For coffee, please inform the staff of the coffee type</description>
+                        <price>$4.50</price>
+                        <image>m7.png</image>
+                    </item>
+
+                </category>
+                <category name="Others">
+                    <item>
+                        <name>Soda</name>
+                        <description>Refreshing carbonated drink available in various flavors</description>
+                        <price>$3</price>
+                        <image>m8.png</image>
+                    </item>
+                    <item>
+                        <name>Fresh Juice</name>
+                        <description>Made with seasonal fruits, bursting with flavor and nutrition</description>
+                        <price>$6</price>
+                        <image>m9.png</image>
+                    </item>
+                    <item>
+                        <name>Bottled Water</name>
+                        <description>Crisp and refreshing bottled water for hydration</description>
+                        <price>$2</price>
+                        <image>m10.png</image>
+                    </item>
+                </category>
+            </categories>
+        </special>
+    </week>
+</menu>

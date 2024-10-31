@@ -1,0 +1,12 @@
+<!ELEMENT menu (week)>
+<!ELEMENT week (special)>
+<!ELEMENT special (title, categories)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT categories (category+)>
+<!ELEMENT category (item+)>
+<!ATTLIST category name CDATA #REQUIRED>
+<!ELEMENT item (name, description, price, image)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT image (#PCDATA)>

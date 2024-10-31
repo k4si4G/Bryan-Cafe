@@ -1,0 +1,9 @@
+<!ELEMENT branches (branch+)>
+<!ELEMENT branch (address, contact, openingHours)>
+<!ELEMENT address (location, mapLink)>
+<!ELEMENT location (#PCDATA)>
+<!ELEMENT mapLink (#PCDATA)>
+<!ELEMENT contact (#PCDATA)>
+<!ELEMENT openingHours (weekday, weekend)>
+<!ELEMENT weekday (#PCDATA)>
+<!ELEMENT weekend (#PCDATA)>
